@@ -1,0 +1,15 @@
+.tab-item {
+  border: 1px solid #f3aa4e;
+  border-radius: 15px;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'roboto';
+  margin: 5px;
+  padding: 7px;
+  font-weight: 400;
+}
+
+.active {
+  background-color: #f3aa4e;
+  font-weight: 600;
+}
